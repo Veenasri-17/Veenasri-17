@@ -6,7 +6,7 @@
 
 📈 CGPA: 8.57
 
-💻 Passionate about Artificial Intelligence, Machine Learning, Software Development, and Cloud Security.
+💻 Passionate about Software Development, Python Developer, MS Excel
 
 ---
 
@@ -34,6 +34,9 @@
 * Database Management
 * Git & GitHub
 * Linux (Basics)
+* MS Excel
+* Power Point
+* MS Office
 
 ---
 
@@ -71,6 +74,7 @@
 ## 📜 Certifications
 
 * Introduction to Python (Coursera)
+* Introduction to MS Excel(Simplilearn)
 * Introduction to Java (Coursera)
 * Introduction to Artificial Intelligence (Infosys Springboard)
 * Introduction to Cyber Security (Simplilearn)
